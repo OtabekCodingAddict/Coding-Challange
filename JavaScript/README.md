@@ -1,4 +1,5 @@
 # JavaScript
+<<<<<<< HEAD
 
 
 ## Otabek Commited!
@@ -6,3 +7,5 @@
 
 ## Kuysinov S (neostar08)
 
+=======
+>>>>>>> child
