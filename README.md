@@ -1,9 +1,4 @@
 # Coding-Challange
 
+lets start iur new project!
 
-srsfgf
-hfgdghn
-fggdf
-gfhgjffs
-
-some text
